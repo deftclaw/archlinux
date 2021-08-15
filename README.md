@@ -1,2 +1,2 @@
 # archlinux
-__Archlinux / repo__
+_Archlinux / repo_
